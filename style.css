@@ -1,0 +1,40 @@
+body{
+background-color: burlywood;
+}
+h1{
+    color: darkred;
+    text-align: center;
+}
+p {
+font-size: 18px;
+}
+
+li{
+    margin-bottom: 10;
+}
+img{
+    border-radius: 50px;
+    width: 225px;
+}
+
+table{
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+td {
+      border: 1px solid #0b0a44;
+      padding: 12px;
+      text-align: center;
+    }
+    tr:hover {
+      background-color: #ddd; 
+    }
+
+a{
+    font-size: 25px;
+    text-align: center;
+}
+
+a:hover{
+color: rgb(0, 174, 255);
+}
